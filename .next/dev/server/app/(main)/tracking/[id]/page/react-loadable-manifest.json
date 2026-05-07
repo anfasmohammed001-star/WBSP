@@ -1,0 +1,11 @@
+{
+  "[project]/src/components/LiveTrackingMap.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/LiveTrackingMap.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_11cd6a26._.js",
+      "static/chunks/src_components_LiveTrackingMap_tsx_272c4042._.js",
+      "static/chunks/node_modules_leaflet_dist_leaflet_ef5f0413.css",
+      "static/chunks/src_components_LiveTrackingMap_tsx_f358c4a8._.js"
+    ]
+  }
+}
