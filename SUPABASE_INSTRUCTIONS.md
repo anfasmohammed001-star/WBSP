@@ -23,7 +23,7 @@ Follow these simplified steps to configure your backend database.
 3. Open the file named **`fix_schema.sql`**.
 4. Select all text (Ctrl+A) and Copy it (Ctrl+C).
 5. Paste it into the Supabase SQL Editor.
-6. Click the green **RUN** button.
+6. Click the green **RUN** buttons.
 7. Ensure you see "Success".
 
 ## Done!
